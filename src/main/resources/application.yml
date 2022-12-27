@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: AeroDockGrad2
+netty:
+  default:
+    allocator:
+      max-order: 3
